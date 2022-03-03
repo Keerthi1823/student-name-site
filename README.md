@@ -7,6 +7,6 @@ Where I learn Html and Css with Tanay Pratap live on Youtube.
 For now,I know:
 
 1.JavaScript
-2.NodeJs
-3.Repl.it
-4.CHALK
+1.NodeJs
+1.Repl.it
+1.CHALK
